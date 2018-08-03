@@ -7,9 +7,11 @@
 # 해결방안
 1. Windows 7 32bit ISO 파일 생성
 1. Windows 7 32bit USB 드라이브 생성 
-1. GIGABYTE Windows USE Installation Tool 로 USB 드라이브를 스카이레이크 이후 보드에서도 이용할 수 있도록 설정
+1. [GIGABYTE Windows USE Installation Tool](http://download.gigabyte.ru/utility/mb_utility_windowsimagetool.zip) 로 USB 드라이브를 스카이레이크 이후 보드에서도 이용할 수 있도록 설정
+    * 이 작업이 Windows 7 설치의 핵심 
 1. Windows 7 설치 
 1. [EasyDrv7](https://drive.google.com/drive/folders/13lfwfiUCb9_kwcGVdbGZy1YZ2PcfOgh5) 를 이용해서 드라이브 설치
+    * LG 그램은 64비트 드라이버를 제공해주는데 Windows 7 32비트를 설치하면 제공해주느 드라이버를 이용 못하기 때문에 EasyDrv7을 이용한다
 
 # 결론
 1. 위 방법으로 설치를 진행하면 대부분 드라이브까지 설치되지만 터치패드와 블루투스를 포함한 몇개의 드라이버는 설치하지 못했다. 
